@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hi this is 3 file in directory 2
+=======
+This is file 3 in directory 2...
+>>>>>>> 1dc26f1d8ac7a9a6850987d67851d6c840f3e93e
